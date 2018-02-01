@@ -1,0 +1,18 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.exe.config
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.exe
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.exe
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\bin\Release\SMO.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2015\Projects\SMO\SMO\obj\Release\SMO.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.SMO.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\SMO\SMO\obj\Release\SMO.SMO.resources

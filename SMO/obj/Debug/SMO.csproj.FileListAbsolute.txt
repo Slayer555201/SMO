@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\bin\Debug\SMO.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\bin\Debug\SMO.exe
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\bin\Debug\SMO.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\obj\Debug\SMO.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\obj\Debug\SMO.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\obj\Debug\SMO.exe
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\obj\Debug\SMO.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SMO\SMO\obj\Debug\SMO.Form1.resources
